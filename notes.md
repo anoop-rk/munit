@@ -1,4 +1,4 @@
-## Munit Processors
+## Munit Processors - Munit Tools Module
 > https://docs.mulesoft.com/munit/2.3/event-processors
 ### Assert Expression
 - The Assert Expression processor allows you evaluate a Dataweave expression that asserts the state of a Mule Event’s content. 
@@ -51,3 +51,15 @@
 ### Sleep Processor
 - The Sleep processor allows you to pause your test for a specific time. You can use this processor to simulate a delay in the processing of the flow
 > https://docs.mulesoft.com/munit/2.3/sleep-processor
+
+## Munit Module
+> https://docs.mulesoft.com/munit/2.2/before-after-scopes-reference
+
+- Before suite
+- After suite
+- Before test
+- After test
+
+## References
+
+- https://developer.mulesoft.com/tutorials-and-howtos/quick-start/how-to-create-your-first-munit-test-in-anypoint-studio
